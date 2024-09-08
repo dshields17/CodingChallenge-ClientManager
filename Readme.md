@@ -16,7 +16,7 @@ Follow these steps to set up and run the Client Management System on your local 
 2. URL to git repository will be provided in email
 3. Run the following command to clone the repository:
    ```
-   git clone {url}
+   git clone https://github.com/dshields17/CodingChallenge-ClientManager.git
    cd client-management-system
    ```
 
